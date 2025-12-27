@@ -18,3 +18,9 @@ This project implements a backend application with a custom authentication and a
 - **Framework**: Django & Django Rest Framework (DRF)
 - **Database**: PostgreSQL
 - **Documentation**: Swagger/OpenAPI documentation available at `/api/docs/`
+
+#swagger:
+http://localhost:8000/api/docs/
+
+running project:
+docker compose up --build
